@@ -5,7 +5,7 @@
   "decimals": 18,
   "website": "https://www.app.unic.ly/#/utoken-contract/0xD4f2249dd6c26446F1413f6d97F14fcaa7792545",
   "description": "MoonCats are procedurally generated pixel cats which are deterministically generated based on blockchain data. They're the oldest known Ethereum asset to use generative creation. 25,440 MoonCats have now been rescued from the moon, and now you can be a part of the next chapter of their lives!\n\n$uGMC represents fractional ownership of a bundle of 24 Genesis MoonCats which includes 12 black and 12 white cats overall. This bundle represents 25% of all Genesis MoonCats in existence.",
-  "explorer": "https://etherscan.io/address/0xd4f2249dd6c26446f1413f6d97f14fcaa7792545",
+  "explorer": "https://etherscan.io/token/0xd4f2249dd6c26446f1413f6d97f14fcaa7792545",
   "status": "active",
   "id": "0xD4f2249dd6c26446F1413f6d97F14fcaa7792545",
   "links": [
